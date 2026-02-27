@@ -1,0 +1,8 @@
+.env
+AI_Internals/
+node_modules
+Data/
+output/
+.gitignore
+.DS_Store
+*.log
